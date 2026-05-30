@@ -2,7 +2,7 @@
 Minimal-basis STO-nG restricted Hartree--Fock calculation for a
 closed-shell, two-electron diatomic molecule.
 
-Python translation of the Fortran program hf_new2.f, based on Appendix B of
+Python translation of the Fortran program szabo.f, based on Appendix B of
 Szabo and Ostlund, Modern Quantum Chemistry.
 
 The default run reproduces the printed report of the original Fortran program
